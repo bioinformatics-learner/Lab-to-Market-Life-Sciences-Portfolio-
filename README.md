@@ -30,7 +30,7 @@ This repository showcases an end-to-end **Lab-to-Market** portfolio built throug
 - **Key Deliverables:**
   - Evaluated **Licensing**, **Spinout Formation**, and **Research Collaboration** using a multi-criteria Commercialisation Decision Matrix.
   - Recommended a **Phased Licensing Strategy**: a 12–18 month grant-funded Research Collaboration (Innovate UK, CRUK, Wellcome Trust) for multi-centre clinical validation, followed by an exclusive licensing agreement.
-- **Deliverable File:** [`Commercialisation_Recommendation_Memo_Anjali_Prabha.docx`](./Commercialisation_Recommendation_Memo_Anjali_Prabha.docx)
+- **Deliverable File:** [`Commercialisation_Recommendation_Memo_Anjali_Prabha.pdf`](./Commercialisation_Recommendation_Memo_Anjali_Prabha.pdf)
 
 ---
 
@@ -42,8 +42,8 @@ This repository showcases an end-to-end **Lab-to-Market** portfolio built throug
   - **Brand Positioning:** Developed a 5-pillar differentiated brand positioning framework (`RespiMab_Brand_Positioning_Slide_2.png`) and delivered a pitch to marketing leadership.
   - **ABPI-Compliant Go-to-Market Strategy:** Built a customer segmentation plan (NHS Specialist Respiratory Consultants & Biologic Nurse Specialists), HCP conversation framework, and tracking metrics aligned with the ABPI Code of Practice and MHRA Blue Guide.
 - **Deliverable Files:**
-  - [`NICE_Company_Evidence_Submission_Task2_Anjali_Prabha.docx`](./NICE_Company_Evidence_Submission_Task2_Anjali_Prabha.docx)
-  - [`Go_To_Market_Strategy_Presentation_Anjali_Prabha.docx`](./Go_To_Market_Strategy_Presentation_Anjali_Prabha.docx)
+  - [`NICE_Company_Evidence_Submission_Task2_Anjali_Prabha.pdf`](./NICE_Company_Evidence_Submission_Task2_Anjali_Prabha.pdf)
+  - [`Go_To_Market_Strategy_Presentation_Anjali_Prabha.pdf`](./Go_To_Market_Strategy_Presentation_Anjali_Prabha.pdf)
 
 ---
 
