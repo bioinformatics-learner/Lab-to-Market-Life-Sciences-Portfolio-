@@ -1,22 +1,22 @@
-# 🧬 Lab-to-Market Life Sciences Portfolio
+# Lab-to-Market Life Sciences Portfolio
 
 **Author:** Anjali Prabha  
 **Academic Background:** B.Sc. (Hons.) Zoology, R.S. College, Magadh University | Former Research Intern, ICMR-RMRIMS Patna  
 
 ---
 
-## 📌 Overview
+##  Overview
 This repository showcases an end-to-end **Lab-to-Market** portfolio built through four interconnected industry simulations on Forage. It demonstrates how a scientific discovery progresses from early laboratory validation to intellectual property protection, technology transfer, reimbursement appraisal, and pharmaceutical commercialisation.
 
 ---
 
-## 🔬 1. Biology Research (Discovery & Validation)
+##  1. Biology Research (Discovery & Validation)
 - **Objective:** Design experimental workflows and analyse biological datasets to validate early-stage scientific findings.
 - **Key Skills:** Experimental Design, Data Analysis, Scientific Documentation, Hypothesis Testing.
 
 ---
 
-## 🛡️ 2. LifeArc — Intellectual Property (IP Protection)
+##  2. LifeArc — Intellectual Property (IP Protection)
 - **Objective:** Act as an IP Analyst to evaluate early-stage inventions and safeguard scientific breakthroughs before external disclosure.
 - **Key Deliverables:**
   - Evaluated Invention Disclosure Forms (IDFs) for novelty and industrial applicability.
@@ -24,7 +24,7 @@ This repository showcases an end-to-end **Lab-to-Market** portfolio built throug
 
 ---
 
-## 🤝 3. LifeArc — Technology Transfer (Commercialisation Strategy)
+##  3. LifeArc — Technology Transfer (Commercialisation Strategy)
 - **Role:** Technology Transfer Associate, Judd Street Innovations
 - **Project:** Commercialisation assessment for Dr. Emily Carter’s non-invasive, blood-based early-stage cancer diagnostic tool (92% accuracy across a 200-patient proof-of-concept cohort).
 - **Key Deliverables:**
@@ -34,7 +34,7 @@ This repository showcases an end-to-end **Lab-to-Market** portfolio built throug
 
 ---
 
-## 📈 4. Pfizer UK — Molecule to Market (Health Economics & Go-to-Market)
+##  4. Pfizer UK — Molecule to Market (Health Economics & Go-to-Market)
 - **Roles:** Junior Brand Manager & Therapy Area Specialist (Respiratory Portfolio)
 - **Project:** Launch and reimbursement strategy for **RespiMab®** (investigational upstream anti-TSLP biologic for severe uncontrolled asthma).
 - **Key Deliverables:**
@@ -47,7 +47,7 @@ This repository showcases an end-to-end **Lab-to-Market** portfolio built throug
 
 ---
 
-## 📊 Visual Deliverables
+##  Visual Deliverables
 ### NHS Clinical Care Pathway & Placement of RespiMab®
 ![Clinical Pathway Diagram](./clinical_pathway_diagram.png)
 
@@ -56,7 +56,7 @@ This repository showcases an end-to-end **Lab-to-Market** portfolio built throug
 
 ---
 
-## 🛠️ Core Competencies Demonstrated
+##  Core Competencies Demonstrated
 - **Scientific & Analytical:** Molecular & Clinical Pathway Mapping, Health Economics (HTA / NICE Appraisal), Diagnostic Performance Evaluation
 - **IP & Commercialisation:** Invention Disclosure Review, Prior Art & FTO Assessment, Licensing & Deal Structuring
 - **Pharma Strategy & Compliance:** Brand Positioning, Stakeholder Engagement, ABPI Code of Practice & MHRA Blue Guide Governance
